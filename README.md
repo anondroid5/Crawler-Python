@@ -6,6 +6,8 @@ Python 2.7
 #Details
 
 ###demo
+crawler.py
+
 
 ###parts
 imgsave.py - 画像を保存するスクリプト
