@@ -1,7 +1,7 @@
 # Crawler
 
 # Language
-Python2.7
+Python 2.7
 
 #Author
 Fumihiko Akagi
