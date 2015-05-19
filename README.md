@@ -8,6 +8,9 @@ Python 2.7
 ###demo
 
 ###parts
+imgsave.py - 画像を保存するスクリプト
+
+
 
 #Author
 Fumihiko Akagi
