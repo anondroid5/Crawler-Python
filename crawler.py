@@ -1,6 +1,5 @@
 #coding: UTF-8
-#thanks youtube
-#http://www.youtube.com/watch?v=SFas42HBtMg
+
 import urlparse
 import urllib
 from bs4 import BeautifulSoup
