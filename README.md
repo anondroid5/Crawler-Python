@@ -10,6 +10,8 @@ Python 2.7
 ###parts
 imgsave.py - 画像を保存するスクリプト
 
+input.py - 入力情報をチェックするスクリプト
+
 
 
 #Author
