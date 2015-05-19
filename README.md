@@ -6,17 +6,17 @@ Python 2.7
 #Details
 
 ###demo
-crawler.py -
+crawler.py - クローラー
 
-fbspider.py -
+fbspider.py - facebookをスクレイピングするスクリプト
 
-imgspider.py -
+imgspider.py - 画像をスクレイピングするスクリプト
 
-pagespider.py -
+pagespider.py - htmlをスクレイピングするスクリプト
 
-titlespider.py -
+titlespider.py - タイトルタグをスクレイピングするスクリプト
 
-twispider.py -
+twispider.py -　twitterをスクレイピングするスクリプト
 
 ###parts
 imgsave.py - 画像を保存するスクリプト
