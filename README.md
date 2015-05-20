@@ -6,20 +6,20 @@ Python 2.7
 ###demo
 crawler.py - クローラー
 
-fbspider.py - facebookをスクレイピングするスクリプト
+fbspider.py - facebookをスクレイピング
 
-imgspider.py - 画像をスクレイピングするスクリプト
+imgspider.py - 画像をスクレイピング
 
-pagespider.py - htmlをスクレイピングするスクリプト
+pagespider.py - htmlをスクレイピング
 
-titlespider.py - タイトルタグをスクレイピングするスクリプト
+titlespider.py - タイトルタグをスクレイピング
 
-twispider.py -　twitterをスクレイピングするスクリプト
+twispider.py -　twitterをスクレイピング
 
 ###parts
-imgsave.py - 画像を保存するスクリプト
+imgsave.py - 画像を保存する
 
-input.py - 入力情報をチェックするスクリプト
+input.py - 入力情報をチェックする
 
 
 
