@@ -1,6 +1,4 @@
 # Crawler
-
-# Language
 Python 2.7
 
 #Details
