@@ -1,5 +1,7 @@
 # Crawler
-Python 2.7
+[![Language](http://img.shields.io/badge/language-python-orange.svg?style=flat)](https://www.python.org)
+[![Version](https://img.shields.io/badge/version-v2.x-blue.svg?style=flat)](https://www.python.org/doc/)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 #Details
 
