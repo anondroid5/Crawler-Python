@@ -5,7 +5,7 @@
 
 #Details
 
-###demo
+### demo
 crawler.py - クローラー
 
 fbspider.py - facebookをスクレイピング
@@ -18,12 +18,13 @@ titlespider.py - タイトルタグをスクレイピング
 
 twispider.py -　twitterをスクレイピング
 
-###parts
+### parts
 imgsave.py - 画像を保存する
 
 input.py - 入力情報をチェックする
 
-
+### gui
+fc2.py - fc2ブログ向けスクレイピング
 
 #Author
 Fumihiko Akagi
