@@ -26,13 +26,13 @@ input.py - 入力情報をチェックする
 fc2.py - fc2ブログ向けスクレイピング
 
 #Author
-Fumihiko Akagi
+Fumihiko Akaki
 
 #Copyright
   
     The MIT License
 
-    Copyright (c) 2015 Fumihiko Akagi
+    Copyright (c) 2015 Fumihiko Akaki
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this
     software and associateddocumentation files (the "Software"), to deal in the Software
